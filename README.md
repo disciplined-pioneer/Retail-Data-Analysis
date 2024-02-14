@@ -1,0 +1,1 @@
+This project focuses on analyzing retail data using modern data mining and visualization techniques. I study various aspects of retail using order data, including order number, quantity of items ordered, unit price, total sales, order date, order status, and other characteristics.
